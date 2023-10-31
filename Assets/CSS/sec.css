@@ -1,0 +1,450 @@
+.rotate{
+    rotate: calc(1 * 6deg);
+}
+.spsp{
+    rotate: calc(1 * -6deg);
+}
+
+
+.hour01{
+    rotate: calc(1 * 30deg);
+}
+.hour02{
+    rotate: calc(1 * 60deg);
+}
+.hour03{
+    rotate: calc(1 * 90deg);
+}
+.hour04{
+    rotate: calc(1 * 120deg);
+}
+.hour05{
+    rotate: calc(1 * 150deg);
+}
+.hour06{
+    rotate: calc(1 * 180deg);
+}
+.hour07{
+    rotate: calc(1 * 210deg);
+}
+.hour08{
+    rotate: calc(1 * 240deg);
+}
+.hour09{
+    rotate: calc(1 * 270deg);
+}
+.hour10{
+    rotate: calc(1 * 300deg);
+}
+.hour11{
+    rotate: calc(1 * 330deg);
+}
+.hour12{
+    rotate: calc(1 * 360deg);
+}
+.hsp01{
+    rotate: calc(-1 * 30deg);
+}
+.hsp02{
+    rotate: calc(-1 * 60deg);
+}
+.hsp03{
+    rotate: calc(-1 * 90deg);
+}
+.hsp04{
+    rotate: calc(-1 * 120deg);
+}
+.hsp05{
+    rotate: calc(-1 * 150deg);
+}
+.hsp06{
+    rotate: calc(-1 * 180deg);
+}
+.hsp07{
+    rotate: calc(-1 * 210deg);
+}
+.hsp08{
+    rotate: calc(-1 * 240deg);
+}
+.hsp09{
+    rotate: calc(-1 * 270deg);
+}
+.hsp10{
+    rotate: calc(-1 * 300deg);
+}
+.hsp11{
+    rotate: calc(-1 * 330deg);
+}
+.hsp12{
+    rotate: calc(-1 * 360deg);
+}
+
+
+.second01{
+    rotate: calc(1 * -6deg);
+}
+.second02{
+    rotate: calc(2 * -6deg);
+}
+.second03{
+    rotate: calc(3 * -6deg);
+}
+.second04{
+    rotate: calc(4 * -6deg);
+}
+.second05{
+    rotate: calc(5 * -6deg);
+}
+.second06{
+    rotate: calc(6 * -6deg);
+}
+.second07{
+    rotate: calc(7 * -6deg);
+}
+.second08{
+    rotate: calc(8 * -6deg);
+}
+.second09{
+    rotate: calc(9 * -6deg);
+}
+.second10{
+    rotate: calc(10 * -6deg);
+}
+.second11{
+    rotate: calc(11 * -6deg);
+}
+.second12{
+    rotate: calc(12 * -6deg);
+}
+.second13{
+    rotate: calc(13 * -6deg);
+}
+.second14{
+    rotate: calc(14 * -6deg);
+}
+.second15{
+    rotate: calc(15 * -6deg);
+}
+.second16{
+    rotate: calc(16 * -6deg);
+}
+.second17{
+    rotate: calc(17 * -6deg);
+}
+.second18{
+    rotate: calc(18 * -6deg);
+}
+.second19{
+    rotate: calc(19 * -6deg);
+}
+.second20{
+    rotate: calc(20 * -6deg);
+}
+.second21{
+    rotate: calc(21 * -6deg);
+}
+.second22{
+    rotate: calc(22 * -6deg);
+}
+.second23{
+    rotate: calc(23 * -6deg);
+}
+.second24{
+    rotate: calc(24 * -6deg);
+}
+.second25{
+    rotate: calc(25 * -6deg);
+}
+.second26{
+    rotate: calc(26 * -6deg);
+}
+.second27{
+    rotate: calc(27 * -6deg);
+}
+.second28{
+    rotate: calc(28 * -6deg);
+}
+.second29{
+    rotate: calc(29 * -6deg);
+}
+.second30{
+    rotate: calc(30 * -6deg);
+}
+.second31{
+    rotate: calc(31 * -6deg);
+}
+.second32{
+    rotate: calc(32 * -6deg);
+}
+.second33{
+    rotate: calc(33 * -6deg);
+}
+.second34{
+    rotate: calc(34 * -6deg);
+}
+.second35{
+    rotate: calc(35 * -6deg);
+}
+.second36{
+    rotate: calc(36 * -6deg);
+}
+.second37{
+    rotate: calc(37 * -6deg);
+}
+.second38{
+    rotate: calc(38 * -6deg);
+}
+.second39{
+    rotate: calc(39 * -6deg);
+}
+.second40{
+    rotate: calc(40 * -6deg);
+}
+.second41{
+    rotate: calc(41 * -6deg);
+}
+.second42{
+    rotate: calc(42 * -6deg);
+}
+.second43{
+    rotate: calc(43 * -6deg);
+}
+.second44{
+    rotate: calc(44 * -6deg);
+}
+.second45{
+    rotate: calc(45 * -6deg);
+}
+.second46{
+    rotate: calc(46 * -6deg);
+}
+.second47{
+    rotate: calc(47 * -6deg);
+}
+.second48{
+    rotate: calc(48 * -6deg);
+}
+.second49{
+    rotate: calc(49 * -6deg);
+}
+.second50{
+    rotate: calc(50 * -6deg);
+}
+.second51{
+    rotate: calc(51 * -6deg);
+}
+.second52{
+    rotate: calc(52 * -6deg);
+}
+.second53{
+    rotate: calc(53 * -6deg);
+}
+.second54{
+    rotate: calc(54 * -6deg);
+}
+.second55{
+    rotate: calc(55 * -6deg);
+}
+.second56{
+    rotate: calc(56 * -6deg);
+}
+.second57{
+    rotate: calc(57 * -6deg);
+}
+.second58{
+    rotate: calc(58 * -6deg);
+}
+.second59{
+    rotate: calc(59 * -6deg);
+}
+.second60{
+    rotate: calc(60 * -6deg);
+}
+
+.ssp00, .ssp20, .ssp40{
+    left: calc(50% - 8px);
+    font-size: 18px;
+    color: yellow;
+    font-weight: bold;
+} 
+
+/* .ssp01{
+    rotate: calc(1 * 6deg);
+}
+.ssp02{
+    rotate: calc(2 * 6deg);
+}
+.ssp03{
+    rotate: calc(3 * 6deg);
+}
+.ssp04{
+    rotate: calc(4 * 6deg);
+}
+.ssp05{
+    rotate: calc(5 * 6deg);
+}
+.ssp06{
+    rotate: calc(6 * 6deg);
+}
+.ssp07{
+    rotate: calc(7 * 6deg);
+}
+.ssp08{
+    rotate: calc(8 * 6deg);
+}
+.ssp09{
+    rotate: calc(9 * 6deg);
+}
+.ssp10{
+    rotate: calc(10 * 6deg);
+}
+.ssp11{
+    rotate: calc(11 * 6deg);
+}
+.ssp12{
+    rotate: calc(12 * 6deg);
+}
+.ssp13{
+    rotate: calc(13 * 6deg);
+}
+.ssp14{
+    rotate: calc(14 * 6deg);
+}
+.ssp15{
+    rotate: calc(15 * 6deg);
+}
+.ssp16{
+    rotate: calc(16 * 6deg);
+}
+.ssp17{
+    rotate: calc(17 * 6deg);
+}
+.ssp18{
+    rotate: calc(18 * 6deg);
+}
+.ssp19{
+    rotate: calc(19 * 6deg);
+}
+.ssp20{
+    rotate: calc(20 * 6deg);
+}
+.ssp21{
+    rotate: calc(21 * 6deg);
+}
+.ssp22{
+    rotate: calc(22 * 6deg);
+}
+.ssp23{
+    rotate: calc(23 * 6deg);
+}
+.ssp24{
+    rotate: calc(24 * 6deg);
+}
+.ssp25{
+    rotate: calc(25 * 6deg);
+}
+.ssp26{
+    rotate: calc(26 * 6deg);
+}
+.ssp27{
+    rotate: calc(27 * 6deg);
+}
+.ssp28{
+    rotate: calc(28 * 6deg);
+}
+.ssp29{
+    rotate: calc(29 * 6deg);
+}
+.ssp30{
+    rotate: calc(30 * 6deg);
+}
+.ssp20{
+    rotate: calc(20 * 6deg);
+}
+.ssp31{
+    rotate: calc(31 * 6deg);
+}
+.ssp32{
+    rotate: calc(32 * 6deg);
+}
+.ssp33{
+    rotate: calc(33 * 6deg);
+}
+.ssp34{
+    rotate: calc(34 * 6deg);
+}
+.ssp35{
+    rotate: calc(35 * 6deg);
+}
+.ssp36{
+    rotate: calc(36 * 6deg);
+}
+.ssp37{
+    rotate: calc(37 * 6deg);
+}
+.ssp38{
+    rotate: calc(38 * 6deg);
+}
+.ssp39{
+    rotate: calc(39 * 6deg);
+}
+.ssp40{
+    rotate: calc(40 * 6deg);
+}
+.ssp41{
+    rotate: calc(41 * 6deg);
+}
+.ssp42{
+    rotate: calc(42 * 6deg);
+}
+.ssp43{
+    rotate: calc(43 * 6deg);
+}
+.ssp44{
+    rotate: calc(44 * 6deg);
+}
+.ssp45{
+    rotate: calc(45 * 6deg);
+}
+.ssp46{
+    rotate: calc(46 * 6deg);
+}
+.ssp47{
+    rotate: calc(47 * 6deg);
+}
+.ssp48{
+    rotate: calc(48 * 6deg);
+}
+.ssp49{
+    rotate: calc(49 * 6deg);
+}
+.ssp50{
+    rotate: calc(50 * 6deg);
+}
+.ssp51{
+    rotate: calc(51 * 6deg);
+}
+.ssp52{
+    rotate: calc(52 * 6deg);
+}
+.ssp53{
+    rotate: calc(53 * 6deg);
+}
+.ssp54{
+    rotate: calc(54 * 6deg);
+}
+.ssp55{
+    rotate: calc(55 * 6deg);
+}
+.ssp56{
+    rotate: calc(56 * 6deg);
+}
+.ssp57{
+    rotate: calc(57 * 6deg);
+}
+.ssp58{
+    rotate: calc(58 * 6deg);
+}
+.ssp59{
+    rotate: calc(59 * 6deg);
+}*/
